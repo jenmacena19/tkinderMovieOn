@@ -108,7 +108,7 @@ def select_path():
 
 def know_more_clicked(event):
     instructions = (
-        "https://github.com/jenmacena19/sistemaRecomendacao")
+        "https://github.com/jenmacena19/tkinderMovieOn")
     webbrowser.open_new_tab(instructions)
 
 
